@@ -1,9 +1,4 @@
 #!/usr/bin/python
-# << CODE BY HUNX04
-# << MAU RECODE ??? IZIN DULU LAH,  MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH GAMPANG SI PAKE FORK
-# << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS
-# “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
-
 #IMPORT MODULE
 
 import json
@@ -52,7 +47,7 @@ if input_user == '1': #OPSI 1
      .-.
    .'   `.          {Wh}--------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-   : o    `.        {Wh}|       {Gr}@CODED BY SWEZY         {Wh}|
+   : o    `.        {Wh}|       {Gr}@CODED BY SWEZY        {Wh}|
   :         ``.     {Wh}--------------------------------
  :             `.
 :  :         .   `.
@@ -115,7 +110,7 @@ elif input_user == '2': #OPSI 2
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - PHONE NUMBER {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY SWEZY           {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY SWEZY          {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
