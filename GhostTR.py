@@ -52,7 +52,7 @@ if input_user == '1': #OPSI 1
      .-.
    .'   `.          {Wh}--------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-   : o    `.        {Wh}|       {Gr}@CODED BY SWEZY      {Wh}|
+   : o    `.        {Wh}|       {Gr}@CODED BY SWEZY         {Wh}|
   :         ``.     {Wh}--------------------------------
  :             `.
 :  :         .   `.
