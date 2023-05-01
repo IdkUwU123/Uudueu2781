@@ -115,7 +115,7 @@ elif input_user == '2': #OPSI 2
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - PHONE NUMBER {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY SWEZY       {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY SWEZY           {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
